@@ -1,7 +1,7 @@
 
 # PERFECT ROADMAP TO LEARN DATASCIENCE  :hugs:
-
-My own Machine Learning Course
+>[!NOTE]
+>My own Machine Learning Course
 
 ## LEVEL 1      :ribbon:
 1. #### Learn Python (Est. time - 2 weeks)
@@ -72,8 +72,8 @@ My own Machine Learning Course
 
 
 ## LEVEL 2  :ribbon:
-
-The goal of this level is to learn the core machine learning concepts and algorithms 
+> [!TIP]
+>The goal of this level is to learn the core machine learning concepts and algorithms 
 
 1. #### Learn about tensors (Est. time - 1 Day)
 
@@ -89,8 +89,8 @@ The goal of this level is to learn the core machine learning concepts and algori
         
         [Algebra] (https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA)
 5. #### Basics of Calculus
-
-        First 4 videos only
+        >[!TIP]
+        >First 4 videos only
         [Calculus] (https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
 
 6. #### Machine Learning Algorithms
@@ -118,8 +118,8 @@ The goal of this level is to learn the core machine learning concepts and algori
 10. #### Cross-Validation - (https://www.youtube.com/watch?v=S5NkE-xgx98)
 
 ## LEVEL 3    :ribbon:
-
-The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the world.
+>[!NOTE]
+>The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the world.
 
 1. #### Data Acquisition (Est. time - 2 Days)
         1. [Web Scraping] - (https://www.youtube.com/watch?v=8NOdgjC1988)
@@ -195,7 +195,8 @@ The goal of this level is to get you introduced to the practical side of machine
          2. [Practical - Data Leakage on Quora Question Pair Dataset] - (https://www.kaggle.com/sudalairajkumar/simple-leaky-exploration-notebook-quora)
          3. [Practical - Data Leakage on Credit Card data] - (https://www.kaggle.com/dansbecker/data-leakage)
 17. #### Serving your model(Est. time - 1 Week)
-        Tips: Is mein Docker aur isky elawa kuch ur platform han,wo krishnaik sy dekho.
+         >[!TIP]
+         >Is mein Docker aur isky elawa kuch ur platform han,wo krishnaik sy dekho.
         
          1. [Pickling your model] - (https://www.youtube.com/watch?v=yY1FXX_GSco)
          3. [Streamlit Tutorial] - (https://www.youtube.com/watch?v=Klqn--Mu2pE)
@@ -204,15 +205,15 @@ The goal of this level is to get you introduced to the practical side of machine
          6. [Deploy model to GCP] - (https://www.youtube.com/watch?v=fw6NMQrYc6w)
          7. [Deploy model to Azure] - (https://www.youtube.com/watch?v=qnbJcbjh-3s)
          8. [ML model to Android App] - (https://www.youtube.com/watch?v=ax3WyB-_LJY)
- 18. #### Working with Large Datasets
+ 19. #### Working with Large Datasets
          1. [What is Out of core ML?] - (https://www.youtube.com/watch?v=9e4nUuq2Hmg)
          2. [Practical implementation of Out of core ML] - (https://www.youtube.com/watch?v=sRCuvcdvuzk)
          3. [NYC Cab Dataset Project] - (https://vaex.io/blog/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your)
  
  
 ## LEVEL 4    :ribbon:
-This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
-
+>[!NOTE]
+>This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
 
 1. #### Recommendation Systems
         1. [Movie Recommendation System] - (https://www.youtube.com/watch?v=1xtrIEwY_zY)
@@ -234,14 +235,14 @@ This is the level where you would dive into different domains of Machine Learnin
          4. [Email Spam Classifier Project] - (https://www.youtube.com/watch?v=YncZ0WwxyzU)
          5. [Building a Chatbot] - (https://www.youtube.com/watch?v=Nb21OhaW8GY)
 5.  #### Fundamentals of Neural Network - 
-
-     ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.   
+    >[!NOTE]
+    > ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.   
     [DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
 
 ## LEVEL 5 :partying_face: :sunglasses:
-
-The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
+>[!NOTE]
+>The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
 
 1. [8 types of Projects for your portfolio] - (https://www.youtube.com/watch?v=SQHfry4xmdM)
 2. [How to select a project] - (https://www.youtube.com/watch?v=kH--k1VKFt4)
@@ -262,4 +263,7 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 17.[ Flight Fare Prediction] - (https://www.youtube.com/watch?v=y4EMEpEnElQ)
 18.[ Link for 500+ ML+DL projects] - (https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-                                :relieved:
+               >[!NOTE]
+               > Finally it ends here.
+   
+   :relieved:
