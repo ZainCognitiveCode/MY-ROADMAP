@@ -71,7 +71,7 @@ My own Machine Learning Course
         15. [Building an End to End Machine Learning Project] - https://www.youtube.com/watch?v=dr7z7a_8lQw
 
 
-## LEVEL 2 
+## LEVEL 2  :ribbon:
 
 The goal of this level is to learn the core machine learning concepts and algorithms 
 
@@ -117,7 +117,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 9. #### Regularization - (https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4)
 10. #### Cross-Validation - (https://www.youtube.com/watch?v=S5NkE-xgx98)
 
-## LEVEL 3
+## LEVEL 3    :ribbon:
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the world.
 
@@ -210,7 +210,7 @@ The goal of this level is to get you introduced to the practical side of machine
          3. [NYC Cab Dataset Project] - (https://vaex.io/blog/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your)
  
  
-## LEVEL 4 
+## LEVEL 4    :ribbon:
 This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
 
 
@@ -239,7 +239,7 @@ This is the level where you would dive into different domains of Machine Learnin
     [DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
 
-## LEVEL 5 
+## LEVEL 5 :partying_face: :sunglasses:
 
 The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
 
@@ -262,4 +262,4 @@ The objective of this level is to sharpen your knowledge that you have accumulat
 17.[ Flight Fare Prediction] - (https://www.youtube.com/watch?v=y4EMEpEnElQ)
 18.[ Link for 500+ ML+DL projects] - (https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-
+                                :relieved:
