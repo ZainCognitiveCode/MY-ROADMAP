@@ -7,9 +7,9 @@
 1. #### Learn Python (Est. time - 2 weeks)
         1. [Python](https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
         
-        2.  - [Basics of Flask] - (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
+        2.  - [Basics of Flask] (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
 
-        3. [Practice Problems] - (https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing)
+        3. [Practice Problems] (https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing)
 
 2. #### Learn Numpy (Est. time 3 Days)
         1. [Numpy]- (https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
@@ -81,17 +81,17 @@
 
 2. #### Advance Statistics
          
-        [Stat] (https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
+        [Stat](https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
 3. #### Probability Basics
-        [Probability] (https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)  
+        [Probability](https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)  
 
 4. ####  Linear Algebra Basics
         
-        [Algebra] (https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA)
+        [Algebra](https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA)
 5. #### Basics of Calculus
         >[!TIP]
         >First 4 videos only
-        [Calculus] (https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
+        [Calculus](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
 
 6. #### Machine Learning Algorithms
         1. [Linear Regression] - (https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
@@ -234,10 +234,10 @@
          2. [Complete NLP Playlist] - (https://www.youtube.com/watch?v=zlUpTlaxAKI&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)
          3. [NLP Project Ideas] - (https://www.youtube.com/watch?v=oWJe2T29kAo)
          4. [Email Spam Classifier Project] - (https://www.youtube.com/watch?v=YncZ0WwxyzU)
-         5. [Building a Chatbot] - (https://www.youtube.com/watch?v=Nb21OhaW8GY)
+         5. [Building a Chatbot] (https://www.youtube.com/watch?v=Nb21OhaW8GY)
 6.  #### Fundamentals of Neural Network - 
-[!NOTE]
->ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.
+>[!TIP]
+>You can change it later,or can be done from krishnaik.
       
 [DEEP LEARNING](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
@@ -246,24 +246,24 @@
 >[!NOTE]
 >The objective of this level is to sharpen your knowledge that you have accumulated in the previous 4 levels
 
-1. [8 types of Projects for your portfolio] - (https://www.youtube.com/watch?v=SQHfry4xmdM)
-2. [How to select a project] - (https://www.youtube.com/watch?v=kH--k1VKFt4)
-3. [Car Price Predictor] - (https://www.youtube.com/watch?v=iRCaMnR_bpA)
-4. [Banglore House Price Predictor] - (https://www.youtube.com/watch?v=DVxkI1VmpCk)
-5. [Posture Detection using ML5.js] - (https://www.youtube.com/watch?v=kRvIcdLhDtU)
-6. [Laptop Price Predictor] - (https://www.youtube.com/watch?v=BgpM2IiCH6k)
-7. [Which bollywood celebrity are you?] - (https://www.youtube.com/watch?v=X67rclJcIL0)
-8. [Finding similar GOT characters] - (https://www.youtube.com/watch?v=ygGknomFEWY)
-9. [IPL win probability predictor] -( https://www.youtube.com/watch?v=ygGknomFEWY)
-10.[ T20 score predictor] - (https://www.youtube.com/watch?v=ygGknomFEWY)
-11.[ Titanic Survivor Prediction] - (https://www.youtube.com/watch?v=Bnp94fpxZjY)
-12.[ Diabetes Prediction using ML] - (https://www.youtube.com/watch?v=xUE7SjVx9bQ)
-13.[ Fake news prediction] - (https://www.youtube.com/watch?v=nacLBdyG6jE)
-14.[ Loan Status Prediction] - (https://www.youtube.com/watch?v=XckM1pFgZmg)
-15.[ Gold Price Prediction] - (https://www.youtube.com/watch?v=9ffkBvh8PTQ)
-16.[ Handwriting Classifier] - (https://www.youtube.com/watch?v=1B3YIkyPNk0)
-17.[ Flight Fare Prediction] - (https://www.youtube.com/watch?v=y4EMEpEnElQ)
-18.[ Link for 500+ ML+DL projects] - (https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+1. [8 types of Projects for your portfolio](https://www.youtube.com/watch?v=SQHfry4xmdM)
+2. [How to select a project](https://www.youtube.com/watch?v=kH--k1VKFt4)
+3. [Car Price Predictor](https://www.youtube.com/watch?v=iRCaMnR_bpA)
+4. [Banglore House Price Predictor](https://www.youtube.com/watch?v=DVxkI1VmpCk)
+5. [Posture Detection using ML5.js](https://www.youtube.com/watch?v=kRvIcdLhDtU)
+6. [Laptop Price Predictor](https://www.youtube.com/watch?v=BgpM2IiCH6k)
+7. [Which bollywood celebrity are you?](https://www.youtube.com/watch?v=X67rclJcIL0)
+8. [Finding similar GOT characters](https://www.youtube.com/watch?v=ygGknomFEWY)
+9. [IPL win probability predictor]( https://www.youtube.com/watch?v=ygGknomFEWY)
+10.[ T20 score predictor](https://www.youtube.com/watch?v=ygGknomFEWY)
+11.[ Titanic Survivor Prediction](https://www.youtube.com/watch?v=Bnp94fpxZjY)
+12.[ Diabetes Prediction using ML](https://www.youtube.com/watch?v=xUE7SjVx9bQ)
+13.[ Fake news prediction](https://www.youtube.com/watch?v=nacLBdyG6jE)
+14.[ Loan Status Prediction](https://www.youtube.com/watch?v=XckM1pFgZmg)
+15.[ Gold Price Prediction](https://www.youtube.com/watch?v=9ffkBvh8PTQ)
+16.[ Handwriting Classifier](https://www.youtube.com/watch?v=1B3YIkyPNk0)
+17.[ Flight Fare Prediction](https://www.youtube.com/watch?v=y4EMEpEnElQ)
+18.[ Link for 500+ ML+DL projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
  >[!NOTE]
  > Finally it ends here.
