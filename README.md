@@ -236,10 +236,10 @@
          4. [Email Spam Classifier Project] - (https://www.youtube.com/watch?v=YncZ0WwxyzU)
          5. [Building a Chatbot] - (https://www.youtube.com/watch?v=Nb21OhaW8GY)
 6.  #### Fundamentals of Neural Network - 
-    >[!NOTE]
-    >ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.
+     >[!NOTE]
+     >ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.
       
-    DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+     [DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
 
 ## LEVEL 5 :partying_face: :sunglasses:
@@ -265,7 +265,7 @@
 17.[ Flight Fare Prediction] - (https://www.youtube.com/watch?v=y4EMEpEnElQ)
 18.[ Link for 500+ ML+DL projects] - (https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-               >[!NOTE]
-               > Finally it ends here.
+ >[!NOTE]
+ > Finally it ends here.
    
    :relieved:
