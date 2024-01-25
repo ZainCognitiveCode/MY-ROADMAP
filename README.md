@@ -1,5 +1,5 @@
 
-# PERFECT ROADMAP TO LEARN DATASCIENCE  :smile:
+# PERFECT ROADMAP TO LEARN DATASCIENCE  :hugs:
 
 My own Machine Learning Course
 
