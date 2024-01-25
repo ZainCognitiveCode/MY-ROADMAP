@@ -227,17 +227,19 @@
         1. [Anamoly Detection Lecture from Microsoft Research] - (https://www.youtube.com/watch?v=12Xq9OLdQwQ)
         2. [Novelty Detection Lecture] - (https://www.youtube.com/watch?v=vIDcjbpwY3k)
 4. #### NLP
-        Tips: Isko Krishnaik sy bhi kr skty ho.
+   >[!TIP]
+   >Isko Krishnaik sy bhi kr skty ho.
 
          1. [Complete NLP Roadmap] - (https://www.youtube.com/watch?v=PKv_okm1H-k)
          2. [Complete NLP Playlist] - (https://www.youtube.com/watch?v=zlUpTlaxAKI&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)
          3. [NLP Project Ideas] - (https://www.youtube.com/watch?v=oWJe2T29kAo)
          4. [Email Spam Classifier Project] - (https://www.youtube.com/watch?v=YncZ0WwxyzU)
          5. [Building a Chatbot] - (https://www.youtube.com/watch?v=Nb21OhaW8GY)
-5.  #### Fundamentals of Neural Network - 
+6.  #### Fundamentals of Neural Network - 
     >[!NOTE]
-    > ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.   
-    [DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+    >ye change krna chaho to kr skty ho. Mujhy lgta ye complete nhi ha. isko krishnaik sy bhi k skty ho.
+      
+    DEEP LEARNING]    (https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
 
 ## LEVEL 5 :partying_face: :sunglasses:
