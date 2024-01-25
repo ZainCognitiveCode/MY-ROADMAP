@@ -10,29 +10,30 @@
         2.  - [Basics of Flask] (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
 
         3. [Practice Problems] (https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing)
+        4. [REGULAR EXPRESSION] (https://www.w3schools.com/python/python_regex.asp)
 
-2. #### Learn Numpy (Est. time 3 Days)
+3. #### Learn Numpy (Est. time 3 Days)
         1. [Numpy]- (https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
         2. [Numpy Practice] - (https://github.com/rougier/numpy-100)
 
-3. #### Learn Pandas (Est. time 4 Days)
+4. #### Learn Pandas (Est. time 4 Days)
         1. [Pandas] - (https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
         2. [Pandas Problems] - (https://github.com/ajcr/100-pandas-puzzles)
 
-4. #### Learn Data Visualization (Est. time 1 Week)
+5. #### Learn Data Visualization (Est. time 1 Week)
         1. [Matplotlib Part 1] - (https://www.youtube.com/watch?v=XaKn_cKFlSY&list=PL_ShLI_Xt8hZqICEcrtLdSYtLHYch-x2C&index=3&ab_channel=CampusX)
          - [Matplotlib Part 2]  - (https://www.youtube.com/watch?v=7YDc5xU9CQQ&list=PL_ShLI_Xt8hZqICEcrtLdSYtLHYch-x2C&index=4&ab_channel=CampusX)
 
         2. [Seaborn part 1]    - (https://www.youtube.com/watch?v=DWVLRhnuGqI&ab_channel=CampusX)
          - [Seaborn part 2]   - (https://www.youtube.com/watch?v=kLWeKeqc9Ms&ab_channel=CampusX)
 
-5. #### Descriptive Statistics (Est. time 4 Days)
+6. #### Descriptive Statistics (Est. time 4 Days)
         1. [Statistics Playlist] - (https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
 
-6. #### Learn Data Analysis Process (Est. time 1 week)
+7. #### Learn Data Analysis Process (Est. time 1 week)
         1. [Playlist] - (https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD)
 
-7. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
+8. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
        1. [Understanding your data] - (https://www.youtube.com/watch?v=mJlRTUuVr04)
        2. [Univariate Analysis] - (https://www.youtube.com/watch?v=4HyTlbHUKSw)
        3. [Bivariate and Multivariate Analysis] - (https://www.youtube.com/watch?v=6D3VtEfCw7w)
@@ -49,11 +50,11 @@
        14. [EDA on Covid Data] - (https://www.youtube.com/watch?v=ll0aZVNnOP8)
        15. [WhatsApp Chat Analysis Project] - (https://www.youtube.com/watch?v=Q0QwvZKG_6Q)
 
-8. #### DATABASES (4 Days Max)
+9. #### DATABASES (4 Days Max)
         1. [My Sql] - (https://www.youtube.com/watch?v=nopIGY1zJE0&t=3s&ab_channel=CampusX)
         2. [Mongo DB] - (https://youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I&si=a6yOiuCpIeEIYG_F)
 
-9. #### Learn Machine Learning Basics (4 days)
+10. #### Learn Machine Learning Basics (4 days)
         1. [What is Machine Learning?] https://www.youtube.com/watch?v=ZftI2fEz0Fw
         2. [AI vs ML vs DL] https://www.youtube.com/watch?v=1v3_AQ26jZ0
         3. [Types of Machine Learning] - https://www.youtube.com/watch?v=81ymPYEtFOw
@@ -205,7 +206,7 @@
          6. [Deploy model to GCP] - (https://www.youtube.com/watch?v=fw6NMQrYc6w)
          7. [Deploy model to Azure] - (https://www.youtube.com/watch?v=qnbJcbjh-3s)
          8. [ML model to Android App] - (https://www.youtube.com/watch?v=ax3WyB-_LJY)
- 19. #### Working with Large Datasets
+ 18. #### Working with Large Datasets
          1. [What is Out of core ML?] - (https://www.youtube.com/watch?v=9e4nUuq2Hmg)
          2. [Practical implementation of Out of core ML] - (https://www.youtube.com/watch?v=sRCuvcdvuzk)
          3. [NYC Cab Dataset Project] - (https://vaex.io/blog/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your)
@@ -235,6 +236,7 @@
          3. [NLP Project Ideas] - (https://www.youtube.com/watch?v=oWJe2T29kAo)
          4. [Email Spam Classifier Project] - (https://www.youtube.com/watch?v=YncZ0WwxyzU)
          5. [Building a Chatbot] (https://www.youtube.com/watch?v=Nb21OhaW8GY)
+   
 6.  #### Fundamentals of Neural Network - 
 >[!TIP]
 >You can change it later,or can be done from krishnaik.
