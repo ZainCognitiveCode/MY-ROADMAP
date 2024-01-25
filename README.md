@@ -5,7 +5,7 @@ My own Machine Learning Course
 
 ## LEVEL 1      :ribbon:
 1. #### Learn Python (Est. time - 2 weeks)
-        1. [Python]  (https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
+        1. [Python](https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
         
         2.  - [Basics of Flask] - (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
 
