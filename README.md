@@ -7,7 +7,7 @@
 1. #### Learn Python (Est. time - 2 weeks)
         1. [Python](https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&ab_channel=PanaverseDAO)
         
-        2.  - [Basics of Flask] (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
+        2. [Basics of Flask] (https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&ab_channel=KrishNaik)
 
         3. [Practice Problems] (https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing)
         4. [REGULAR EXPRESSION] (https://www.w3schools.com/python/python_regex.asp)
@@ -26,14 +26,16 @@
 
         2. [Seaborn part 1]    - (https://www.youtube.com/watch?v=DWVLRhnuGqI&ab_channel=CampusX)
          - [Seaborn part 2]   - (https://www.youtube.com/watch?v=kLWeKeqc9Ms&ab_channel=CampusX)
+6. #### Practice
+   Practice python,numpy and pandas from Sir zia book and above practice set.
 
-6. #### Descriptive Statistics (Est. time 4 Days)
+8. #### Descriptive Statistics (Est. time 4 Days)
         1. [Statistics Playlist] - (https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
 
-7. #### Learn Data Analysis Process (Est. time 1 week)
+9. #### Learn Data Analysis Process (Est. time 1 week)
         1. [Playlist] - (https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD)
 
-8. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
+10. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
        1. [Understanding your data] - (https://www.youtube.com/watch?v=mJlRTUuVr04)
        2. [Univariate Analysis] - (https://www.youtube.com/watch?v=4HyTlbHUKSw)
        3. [Bivariate and Multivariate Analysis] - (https://www.youtube.com/watch?v=6D3VtEfCw7w)
@@ -50,11 +52,11 @@
        14. [EDA on Covid Data] - (https://www.youtube.com/watch?v=ll0aZVNnOP8)
        15. [WhatsApp Chat Analysis Project] - (https://www.youtube.com/watch?v=Q0QwvZKG_6Q)
 
-9. #### DATABASES (4 Days Max)
+11. #### DATABASES (4 Days Max)
         1. [My Sql] - (https://www.youtube.com/watch?v=nopIGY1zJE0&t=3s&ab_channel=CampusX)
         2. [Mongo DB] - (https://youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I&si=a6yOiuCpIeEIYG_F)
 
-10. #### Learn Machine Learning Basics (4 days)
+12. #### Learn Machine Learning Basics (4 days)
         1. [What is Machine Learning?] https://www.youtube.com/watch?v=ZftI2fEz0Fw
         2. [AI vs ML vs DL] https://www.youtube.com/watch?v=1v3_AQ26jZ0
         3. [Types of Machine Learning] - https://www.youtube.com/watch?v=81ymPYEtFOw
